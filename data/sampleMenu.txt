@@ -1,0 +1,94 @@
+root
+Root Node
+Where do you want to place your order?
+root 3
+1
+Ignite
+What would you like?
+2
+Wrap-It-Up
+What would you like?
+3
+Fresh Market
+What would you like?
+1 3
+1-1
+Fresh burger
+What else would you like?
+1-2
+Philly cheese steak
+What else would you like?
+1-3
+Chicken tender
+$5.78
+1-1 3
+1-1-1
+Make it double!
+$4.45
+1-1-2
+No tomato
+$3.55
+1-1-3
+Add fries
+$5.25
+1-2 2
+1-2-1
+Change cheese
+Which type of cheese would you like?
+1-2-2
+Add topping
+Which topping would you like?
+1-2-1 3
+1-2-1-1
+Swiss
+$6.76
+1-2-1-2
+Provolone
+$6.76
+1-2-1-3
+Mozzarella
+$7.16
+1-2-2 3
+1-2-2-1
+Add onion
+$6.86
+1-2-2-2
+Add pepper
+$6.86
+1-2-2-3
+Add both
+$6.96
+2 2
+2-1
+Chicken wrap
+Which kind of wrap would you like?
+2-2
+Salad on hero
+Which kind of salad would you like?
+2-1 3
+2-1-1
+Plain
+$6.57
+2-1-2
+Tomato
+$6.67
+2-1-3
+Spinach
+$6.67
+2-2 3
+2-2-1
+Chicken salad
+$6.57
+2-2-2
+Tuna salad
+$6.57
+2-2-3
+Egg salad
+$6.07
+3 2
+3-1
+Salmon
+$8.83
+3-2
+Rib-eye steak
+$9.03
